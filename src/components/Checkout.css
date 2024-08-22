@@ -1,0 +1,29 @@
+.checkout-container {
+  padding: 20px;
+  text-align: center;
+}
+
+.payment-methods {
+  margin: 20px 0;
+}
+
+.payment-methods img {
+  width: 100px;
+  height: auto;
+  margin: 10px;
+}
+
+.payment-methods button {
+  padding: 10px 20px;
+  font-size: 16px;
+  color: #fff;
+  background-color: #333;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+  margin: 10px;
+}
+
+.payment-methods button:hover {
+  background-color: #555;
+}
